@@ -2,6 +2,6 @@
 
 Repositório criado para realização de atividades práticas desta disciplina.
 
-Atividade 01 ✅ 
-Atividade 02 ✅
-Atividade 03 ✅
+Atividade 01 ✅   
+Atividade 02 ✅  
+Atividade 03 ✅  
