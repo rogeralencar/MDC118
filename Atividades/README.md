@@ -6,9 +6,9 @@
 
 ## Atividades em Sala 2
 
-- Atividade 04
-- Atividade 05
-- Atividade 06
+- Atividade 04 :heavy_check_mark:
+- Atividade 05 :heavy_check_mark:
+- Atividade 06 :heavy_check_mark:
 
 **Roger dos Santos de Alencar - 2022130015**
 
